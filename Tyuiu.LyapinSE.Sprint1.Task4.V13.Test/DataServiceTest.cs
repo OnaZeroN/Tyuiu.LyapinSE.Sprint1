@@ -9,8 +9,8 @@ namespace Tyuiu.LyapinSE.Sprint1.Task4.V13.Test
         public void ValidExpression()
         {
             DataService ds = new DataService();
-            double result = ds.Calculate(2, 1);
-            Assert.AreEqual(0.000, result);
+            double result = ds.Calculate(1, 1);
+            Assert.AreEqual(-0.045, result);
         }
     }
 }
