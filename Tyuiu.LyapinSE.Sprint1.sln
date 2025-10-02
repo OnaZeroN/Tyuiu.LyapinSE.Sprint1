@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.LyapinSE.Sprint1.Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.LyapinSE.Sprint1.Task0.V18.Test", "Tyuiu.LyapinSE.Sprint1.Task0.V18.Test\Tyuiu.LyapinSE.Sprint1.Task0.V18.Test.csproj", "{7F0AF7DA-2E07-4678-8DD3-75216843C77B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DLL", "DLL", "{13A0E9F2-0A79-4EB3-B670-D1EDA0F364F6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\tyuiu.cources.programming.interfaces.dll = ..\..\..\Downloads\tyuiu.cources.programming.interfaces.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
